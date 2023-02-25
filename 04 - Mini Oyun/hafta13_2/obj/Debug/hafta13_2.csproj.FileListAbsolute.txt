@@ -1,0 +1,11 @@
+C:\Users\zekib\source\repos\hafta13_2\hafta13_2\obj\Debug\hafta13_2.csproj.AssemblyReference.cache
+C:\Users\zekib\source\repos\hafta13_2\hafta13_2\obj\Debug\hafta13_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zekib\source\repos\hafta13_2\hafta13_2\obj\Debug\hafta13_2.Form1.resources
+C:\Users\zekib\source\repos\hafta13_2\hafta13_2\obj\Debug\hafta13_2.Properties.Resources.resources
+C:\Users\zekib\source\repos\hafta13_2\hafta13_2\obj\Debug\hafta13_2.csproj.GenerateResource.cache
+C:\Users\zekib\source\repos\hafta13_2\hafta13_2\obj\Debug\hafta13_2.csproj.CoreCompileInputs.cache
+C:\Users\zekib\source\repos\hafta13_2\hafta13_2\bin\Debug\hafta13_2.exe.config
+C:\Users\zekib\source\repos\hafta13_2\hafta13_2\bin\Debug\hafta13_2.exe
+C:\Users\zekib\source\repos\hafta13_2\hafta13_2\bin\Debug\hafta13_2.pdb
+C:\Users\zekib\source\repos\hafta13_2\hafta13_2\obj\Debug\hafta13_2.exe
+C:\Users\zekib\source\repos\hafta13_2\hafta13_2\obj\Debug\hafta13_2.pdb
