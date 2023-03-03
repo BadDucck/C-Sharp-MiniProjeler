@@ -1,0 +1,1 @@
+![](https://cdn.discordapp.com/attachments/776863855976382504/1081337517816692736/hafta13_2_tFIH9gmZVN.png)
