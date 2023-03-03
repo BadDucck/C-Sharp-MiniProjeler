@@ -1,0 +1,1 @@
+![](https://cdn.discordapp.com/attachments/776863855976382504/1080875924658069504/Bilp224_Hafta3_Ornek02_4nnVMgF2IV.png)
