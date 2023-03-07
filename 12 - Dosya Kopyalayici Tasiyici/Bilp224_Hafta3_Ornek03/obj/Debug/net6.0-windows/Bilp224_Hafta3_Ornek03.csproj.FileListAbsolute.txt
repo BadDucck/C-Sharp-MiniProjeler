@@ -1,0 +1,17 @@
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\bin\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.exe
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\bin\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.deps.json
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\bin\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.runtimeconfig.json
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\bin\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.dll
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\bin\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.pdb
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\obj\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.csproj.AssemblyReference.cache
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\obj\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.Form1.resources
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\obj\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.csproj.GenerateResource.cache
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\obj\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\obj\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.AssemblyInfoInputs.cache
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\obj\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.AssemblyInfo.cs
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\obj\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.csproj.CoreCompileInputs.cache
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\obj\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.dll
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\obj\Debug\net6.0-windows\refint\Bilp224_Hafta3_Ornek03.dll
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\obj\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.pdb
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\obj\Debug\net6.0-windows\Bilp224_Hafta3_Ornek03.genruntimeconfig.cache
+C:\Users\zekib\source\repos\Bilp224_Hafta3_Ornek03\Bilp224_Hafta3_Ornek03\obj\Debug\net6.0-windows\ref\Bilp224_Hafta3_Ornek03.dll
