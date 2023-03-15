@@ -1,0 +1,11 @@
+C:\Users\zekib\source\repos\hafta10_1\hafta10_1\bin\Debug\hafta10_1.exe.config
+C:\Users\zekib\source\repos\hafta10_1\hafta10_1\bin\Debug\hafta10_1.exe
+C:\Users\zekib\source\repos\hafta10_1\hafta10_1\bin\Debug\hafta10_1.pdb
+C:\Users\zekib\source\repos\hafta10_1\hafta10_1\obj\Debug\hafta10_1.csproj.AssemblyReference.cache
+C:\Users\zekib\source\repos\hafta10_1\hafta10_1\obj\Debug\hafta10_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zekib\source\repos\hafta10_1\hafta10_1\obj\Debug\hafta10_1.Form1.resources
+C:\Users\zekib\source\repos\hafta10_1\hafta10_1\obj\Debug\hafta10_1.Properties.Resources.resources
+C:\Users\zekib\source\repos\hafta10_1\hafta10_1\obj\Debug\hafta10_1.csproj.GenerateResource.cache
+C:\Users\zekib\source\repos\hafta10_1\hafta10_1\obj\Debug\hafta10_1.csproj.CoreCompileInputs.cache
+C:\Users\zekib\source\repos\hafta10_1\hafta10_1\obj\Debug\hafta10_1.exe
+C:\Users\zekib\source\repos\hafta10_1\hafta10_1\obj\Debug\hafta10_1.pdb
