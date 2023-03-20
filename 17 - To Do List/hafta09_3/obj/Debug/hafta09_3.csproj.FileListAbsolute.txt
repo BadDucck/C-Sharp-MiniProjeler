@@ -1,0 +1,11 @@
+C:\Users\zekib\source\repos\hafta09_3\hafta09_3\bin\Debug\hafta09_3.exe.config
+C:\Users\zekib\source\repos\hafta09_3\hafta09_3\bin\Debug\hafta09_3.exe
+C:\Users\zekib\source\repos\hafta09_3\hafta09_3\bin\Debug\hafta09_3.pdb
+C:\Users\zekib\source\repos\hafta09_3\hafta09_3\obj\Debug\hafta09_3.csproj.AssemblyReference.cache
+C:\Users\zekib\source\repos\hafta09_3\hafta09_3\obj\Debug\hafta09_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\zekib\source\repos\hafta09_3\hafta09_3\obj\Debug\hafta09_3.Form1.resources
+C:\Users\zekib\source\repos\hafta09_3\hafta09_3\obj\Debug\hafta09_3.Properties.Resources.resources
+C:\Users\zekib\source\repos\hafta09_3\hafta09_3\obj\Debug\hafta09_3.csproj.GenerateResource.cache
+C:\Users\zekib\source\repos\hafta09_3\hafta09_3\obj\Debug\hafta09_3.csproj.CoreCompileInputs.cache
+C:\Users\zekib\source\repos\hafta09_3\hafta09_3\obj\Debug\hafta09_3.exe
+C:\Users\zekib\source\repos\hafta09_3\hafta09_3\obj\Debug\hafta09_3.pdb
